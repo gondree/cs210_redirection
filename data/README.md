@@ -1,6 +1,13 @@
 # death data
 
-## cdc_us_deaths.csv
+## `cdc_botulism.csv`
+Source: CDC, Division of Foodborne, Waterborne, and Environmental Diseases
+https://data.cdc.gov/Foodborne-Waterborne-and-Related-Diseases/Botulism/66i6-hisz
+
+### Notes
+The CDC Botulism Consultation Service, the Alaska Division of Public Health, and the California Department of Public Health provide clinical consultations on suspected cases of all types of botulism except infant botulism. These agencies are the only sources of antitoxin for non-infant botulism in the United States. The California Infant Botulism Treatment and Prevention provides clinical consultations on suspected infant botulism cases; it is the only source of antitoxin for infant botulism in the United States. Together, these clinical consultations provide expert guidance to clinicians and support the collection of epidemiologic and medical information for all suspected botulism cases reported in the United States.
+
+## `cdc_us_deaths.csv`
 Source: CDC, Leading Causes of Death in the United States, 1999-2017
 https://www.cdc.gov/nchs/data-visualization/mortality-leading-causes
 
